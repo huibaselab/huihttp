@@ -1,0 +1,7 @@
+
+
+;; main section
+;; whether run as a deamon process.
+MINER_HEARD_TIME = 300
+
+

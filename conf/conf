@@ -1,0 +1,16 @@
+
+;; main section
+;; whether run as a deamon process.
+is_daemon=1
+
+app_lock=1
+
+ip = 192.168.0.16
+
+port = 5001
+
+workcount = 16
+
+business_conf = bconf
+
+SUPPORT_TYPE = 
